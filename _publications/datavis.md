@@ -1,14 +1,14 @@
 ---
 title: "Data Visualization"
 collection: Data Visualization
-permalink: /Data Visualization/
+permalink: /Data Visualization
 author_profile: true
 layout: single
 ---
 
 ## 📊 Data Visualization Projects
 
-This page showcases visual storytelling projects From previous Project unit using R, Python, SAS and Tableau.
+This page showcases visual storytelling projects from previous Project units using R, Python, SAS, and Tableau.
 
 ---
 
