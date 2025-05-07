@@ -1,7 +1,5 @@
 ---
 title: "Data Visualization"
-collection: publications
-permalink: /datavis.md/
 author_profile: true
 layout: single
 ---
