@@ -16,7 +16,7 @@ main:
     url: /portfolio/
 
   - title: "Data Viz"
-    url: /Data Visualization/
+    url: /datavis/
 
   - title: "CV"
     url: /cv/
