@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization"
 collection: Data Visualization
-permalink: /Data Visualization
+permalink: /Data Visualization/
 author_profile: true
 layout: single
 ---
