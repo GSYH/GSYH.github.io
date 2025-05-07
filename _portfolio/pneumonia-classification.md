@@ -39,7 +39,10 @@ We used a dataset of 5,856 images from Guangzhou Women and Children’s Medical 
 
 ## Contributions
 
-- **Shuoyuan Gao**: Experiment Setup, Conclusion Writing
+- Xiaomeng Xu: Code editing; abstract; introduction
+- Wenfei Mao: Code editing; Diffusion Model; CLIP; Conclusion
+- Yingzhen Wang: Code editing; Results; Diffusion model
+- Shuoyuan Gao: Code editing; Experiment Setup; Conclusion
 - Full GitHub Repo: [View on GitHub](https://github.com/xxm12345666/biostat625-group2-project)
 
 ## Future Work
