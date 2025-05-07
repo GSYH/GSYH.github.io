@@ -1,7 +1,8 @@
 ---
-title: "Data Visualization"
+title: "Data Viz"
 author_profile: true
 layout: single
+permalink: /datavis/
 ---
 
 ## 📊 Data Visualization Projects
