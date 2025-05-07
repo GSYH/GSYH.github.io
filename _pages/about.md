@@ -17,15 +17,16 @@ Hi! I'm **Shuoyuan Gao**, a graduate student in Biostatistics at the University 
 
 ### 🔬 Research Interests
 - Statistical genetics & bioinformatics  
-- Public health data analysis  
 - Clinical prediction modeling  
 - Data visualization and dashboard development
+- Precision health and outcome modeling
+- Applied public health data analysis and statistical consulting
 
 ### 💼 Experience
-I've worked on projects ranging from cancer genomics and diffusion model classification to Shiny app development for the music industry. I also interned at **Hangzhou Bank** conducting credit risk analytics and workflow optimization.
+I've worked on projects ranging from cancer genomics and diffusion model classification to Shiny app development for the music industry. I also interned at **Hangzhou Bank**, conducting credit risk analytics and workflow optimization.
 
 ### 🛠️ Skills
-- **Programming:** R, Python, SQL, C++, HTML/CSS  
+- **Programming:** R, Python, SQL, HTML/CSS  
 - **Tools & Libraries:** Cytoscape, GSEA, LoRA, ggplot2, Shiny, Tidyverse, Scikit-learn  
 - **Languages:** English (Advanced), Mandarin (Native)
 
