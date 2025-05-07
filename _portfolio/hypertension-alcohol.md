@@ -42,7 +42,7 @@ This project investigates the relationship between systolic blood pressure and a
 
 ### 📎 Full Report
 
-👉 [Download Full Report (PDF)](/files/Group11-Report.pdf)
+👉 [Download Full Report (PDF)](/files/hypertension-report.pdf)
 
 ---
 
