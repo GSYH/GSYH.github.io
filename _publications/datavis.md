@@ -84,7 +84,7 @@ This project compares gene expression between **normal** and **tumor** kidney ti
 
 ## 🌋 Volcano Plot of Differential Expression
 
-![Volcano Plot](/files/2.jpg)
+![Volcano Plot](/files/6.jpg)
 
 ---
 
@@ -102,13 +102,13 @@ This project compares gene expression between **normal** and **tumor** kidney ti
 
 ## 🔗 Protein Interaction Network
 
-![Gene Network](/files/4.jpg)
+![Gene Network](/files/2.jpg)
 
 ---
 
 ## 📈 NES vs. Significance
 
-![NES vs Significance](/files/6.jpg)
+![NES vs Significance](/files/4.jpg)
 
 ---
 
