@@ -96,7 +96,7 @@ This project compares gene expression between **normal** and **tumor** kidney ti
 
 ## 🎯 KEGG Pathway Enrichment
 
-![Pathway Dot Plot](/files/3.jpg)
+![Pathway Dot Plot](/files/4.jpg)
 
 ---
 
@@ -108,7 +108,7 @@ This project compares gene expression between **normal** and **tumor** kidney ti
 
 ## 📈 NES vs. Significance
 
-![NES vs Significance](/files/4.jpg)
+![NES vs Significance](/files/3.jpg)
 
 ---
 
